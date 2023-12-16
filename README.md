@@ -1,6 +1,6 @@
 # Client Feedback Service
 
-Ficticious Website-service with credentials based Authorization and Authentcation roles, representing fetching, sorting and structured representation of client feedbacks.
+Website-service with credentials based Authorization and Authentcation roles, representing fetching, sorting and structured representation of client feedbacks and ficticious filled content.
 
 # Content
 
