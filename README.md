@@ -4,7 +4,7 @@ Ficticious Website-service with credentials based Authorization and Authentcatio
 
 # Content
 
-Proﬁle page, list, search, pagination, sorting by categories, feedback profiling, interaction with user data database etc.
+Report list, search, pagination, endless scroll loading, category list and animations.
 
 # Best practices
 
