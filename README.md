@@ -1,3 +1,15 @@
+# Client Feedback Service
+
+Website-service with credentials based Authorization and Authentcation roles, representing fetching, sorting and structured representation of client feedbacks.
+
+# Content
+
+Proﬁle page, list, search, pagination, sorting by categories, feedback profiling, interaction with user data database etc.
+
+# Best practices
+
+Clean Architecture and Clean Coding, Responsive design, user-friendly interface, throughout appearence analysis, accessibility, data optimization and etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
