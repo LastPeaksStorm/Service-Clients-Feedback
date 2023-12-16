@@ -13,4 +13,4 @@ Clean Architecture and Clean Coding, Responsive design, user-friendly interface,
 # Screenshots
 
 ![react-1 (1)](https://github.com/LastPeaksStorm/Service-Clients-Feedback/assets/109522848/c02d4165-46b5-4a25-9f99-e38f6c57e837)
-![react-2 (1)](https://github.com/LastPeaksStorm/Service-Clients-Feedback/assets/109522848/0f9e1f19-427c-4dd2-b3c1-c213dde8ba0d)
+![react-2 (1)](https://github.com/LastPeaksStorm/Service-Clients-Feedback/assets/109522848/e9c97a77-bb0f-4e49-886d-223d499f737c)
